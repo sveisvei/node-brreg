@@ -1,7 +1,7 @@
 {
   "author": "Sveinung Røsaker",
   "name": "brreg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "dependencies": {
     "request": "~2.9.202",
